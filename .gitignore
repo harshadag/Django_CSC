@@ -38,3 +38,5 @@ nosetests.xml
 django_csc/
 manage.py
 logs/
+templates/
+media/
