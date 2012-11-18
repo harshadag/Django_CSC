@@ -37,3 +37,4 @@ nosetests.xml
 # project related ignores
 django_csc/
 manage.py
+logs/
